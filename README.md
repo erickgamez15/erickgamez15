@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erick Gámez Sánchez - @erickgamez15
-- 👀 I’m interested in Web Programming and Software Test
+- 👀 I’m interested in Software Development and Software Test
 - 🌱 I’m currently learning about SDET for Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
